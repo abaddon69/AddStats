@@ -1,0 +1,4 @@
+PLAYER_STR	Strength
+PLAYER_DEX	Dexterity
+PLAYER_HTH	Health
+PLAYER_INT	Intelligence
